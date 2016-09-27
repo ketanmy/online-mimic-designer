@@ -1,0 +1,19 @@
+{
+  "name": "online",
+  "version": "1.0.0",
+  "description": "Online monitoring system",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "online",
+    "monitoring"
+  ],
+  "author": "ketan mistry",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "bower": "^1.7.9"
+  }
+}
